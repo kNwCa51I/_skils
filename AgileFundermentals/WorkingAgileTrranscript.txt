@@ -1,0 +1,154 @@
+In our working environments, we're always looking to create value, but what is value, why is it important, and how is it created in the first place? In this video, we're going to take a short look at the idea of value and try to answer some of those questions.
+
+'What's valuable to me is time. It's the one thing I don't have enough of. I never have enough time to do all the things I wanna do every day.'
+
+'Honesty is valuable to me. I want to be able to trust those I work with and spend time with on a day-to-day basis.' 
+
+'Sleep is valuable to me so that when I wake up, I'm refreshed, rejuvenated, and can get on with my day.'
+
+As you can tell, the problem with value is that it's subjective. Any number of things could provide the basis for what value is. Perhaps it's differentiating yourself from your competition or eliminating your competitors' advantages. Maybe it's reducing costs or reaching new markets. Maybe it's just meeting basic requirements like achieving compliance. The important thing, though, is that whatever value you're aiming for must be clear and obvious to the agile team. In other words, everyone who's involved in creating a product or service needs to understand exactly what value they hope to achieve with it.
+
+There are a few reasons why value can be really, really important. So the first is the prioritisation of work. During sprint planning, the development team are looking to pull items into the sprint backlog from the product backlog. Work needs to be prioritised in the product backlog by the value it'll provide to the stakeholders and, of course, to the organisation.
+
+Next up, understanding the value we are trying to create provides us with a focus. This is why we're doing what we're doing. It gives us a reason, something to work towards. Understanding what value we're trying to create also helps us align work we are doing with other work we have done and with the rest of the organisation. 
+
+Let's say we're trying to create something that must be compliant, but your organisation generally tries to create products and services that differentiate them from the competition. By aligning to your organisation's vision for value, you can know that you need to create something that doesn't just meet compliance. It also needs to be unique and interesting to consumers.
+
+Understanding value also removes waste. We're not going to do work that isn't valuable because we understand what value we're trying to achieve. This means we won't waste resources on things that don't add the value we need them to. Last up, if you understand what value you're trying to create, you can get a clear idea of what the return on the investment should look like. When an organisation invests resources into a project, they expect a return of some sort. Often this will be in the form of revenue, but it could be something else. Whatever it is, as long as the agile team understands what the goals are, they can align themselves to help achieve it.
+
+Well, the link between agile and value is that agile builds in an understanding of value from the get-go, from the requirements and the user stories. User stories are crafted around our understanding what the customer wants and what the perceived value of that particular product or feature is. There are other areas in which value is clarified. There are other opportunities such as that, demos.
+
+During sprints, the customer is invited to see and confirm that value has been created from the work that the development team have been involved in that sprint. The feedback that they get from the client confirms that value has been created. Overall, agile ways of working are one of the reasons why they are the best ways of generating value is because agile is structured in such a way that work is delivered in an incremental and iterative way that requires value to be created every sprint and can be validated by the customer as being produced every sprint. So agile ways of working, therefore, give value faster than sort of big bang waterfall approaches to delivery that results in value being created at the end of the project. 
+
+-So those are some of the reasons why understanding value is really important, but there is one last thing we need to discuss before the end of this video, and that is the idea of the co-creation of value.
+
+Previously, the idea of value was pretty linear. We as an organisation create something we provide to our stakeholders, and that's value. But today we talk about the co-creation of value. This is the idea that we as an organisation create value by collaborating with our stakeholders. We work with them, take on their feedback, and constantly look to deliver work in line with their expectations. They, in turn, are always looking to be in conversation with us and will tell us what they want. We take on what they say they want, and we work together to create that product or service.
+
+That's it for this video. Although co-created value is subjective, it still needs to be well-defined. Having a well-defined idea of what value is for the organisation and for each product or service has many benefits impacting ways of working, all the way through to strategic thinking.
+
+
+HOW DO I estimate
+
+To work in an agile way, we have to be able to estimate the amount of effort required to complete any requirement. But how do we do this? Well, the first thing to remember is that an estimation is always at its best, really just a guess. If we look at Steve McConnell's cone of uncertainty, which plots time against the error of estimation, we can see that initially, we will probably have a very large variation between the highest estimation and the lowest estimation. Over time as we deliver increments, our estimations will become much more accurate. 
+
+So, the key thing then is, whenever you work with stakeholders or at the start of a project, is that you let them know that you won't be able to give them accurate dates, times, costs, etc. For exactly when the project will be delivered until the end of at least the inception stage. Instead, you need to say, we're going to work iteratively on incremental way to deliver you some of the project as we do that, we'll be able to really get a stronger idea of exactly how much longer will take us to complete the project. 
+
+When you're estimating, it's extremely important that you do so in a relative way rather than an absolute way. Have a look at these three cubes for instance. I can't tell you anything about them absolutely, other than, they're cubes. But I can tell you that the cube on the furthest right seems to be the largest one, and the one on the farthest left seems to be the smallest. I can even say that the biggest cube seems to be about four times as large as the smallest one. 
+
+It's easy for me to estimate the cube size relative to each other, but if you ask me how much the smallest cube weighed, absolutely in kilos or pounds, I don't have the information to tell you this. All I can say is that it looks about four times less than the biggest cube. We can easily apply this relative estimation to our requirements. We can discuss a project, compared with the work we've done before and estimate how large it is based on this.
+
+ 
+
+Okay, so the question is about relative estimation versus absolute estimation. Well, if I was to brought before you 10 people of different sizes, different body matters, and asked you to estimate their body mass, wouldn't be able to do that with any degree of precision and there's a reason for that. 
+
+Humans aren't designed to be able to, tap in with any degree of precision, people's body mass, and that is because you have to take into consideration the height, and it's difficult to estimate that, you know, visually their weight and then complete that into a body mass estimate. But if I were to ask you to, sort of grade, every single person of those 10 people in terms of their average body size in terms of small, medium, large, you would be able to do that, and that is because people can, you know, are able to make those kinds of estimates, because it doesn't require precision.
+
+ 
+
+The next thing we need to do, is attach numbers to our estimations. This is really helpful when it comes to figuring out our capacity and velocity as a team. One of the best ways to give our requirements and estimation in numeric form is to use the Fibonacci sequence. This is because the sequence gets exponentially bigger the further up it goes, helping us to represent larger projects versus smaller ones more easily. 
+
+Every number in the Fibonacci sequence is the sum of the two previous numbers, so, one, two, three, five, eight, 13, 21, etc. It's worth noting that planning poker games sometimes use an alternate sequence, that's pretty much the same, except that it goes to 20, not 21. And from 20, it goes up to 40, and then 100. It still roughly follows the same sequence and serves the same purpose. 
+
+So, maybe we agreed that our smallest cube is one and our largest is an eight. Going forward, we now have a benchmark to estimate all cubes we encounter or in work terms, we have a way to put a number that represents the effort it will take for us to complete that work. Great! So let's talk about velocity. 
+
+Velocity is simply the number of points we get done in a specific time. Let's say two weeks, maybe our velocity is 200. If we go into sprint planning and come out with a sprint backlog that has 250 points in it, we should know that we have overestimated how much we will be able to do, which means some of that work probably won't get done. We should only ever plan to work on as much as our current velocity allows for. Once our velocity is set and steady, we can also start to have a better idea of exactly when a project is likely to end. 
+
+A great way to go about your estimation is to play a bit of planning poker. 
+
+So this is really quite simple actually, everyone in the team gets a set of cards with a Fibonacci sequence on it. The stakeholder or product owner will present the requirements to us and each person will use their cards to vote for how much effort they think is involved to complete it. There will probably be some difference between the team on this, so we need to discuss it amongst ourselves, and then vote again until we can come to as close to a unanimous vote as possible. 
+
+This method allows the whole team to understand what the work entails and to collaborate on understanding and estimating, rather than this sitting with one or two members of the team. 
+
+So yes, that's that for this video. Estimation is just about a relative number you can use to understand the effort required in doing something. Relative estimation allows us to be as accurate as we can be, but still gives us the flexibility to change over time. It also helps us to build a velocity, which helps us to plan our work going forward. Planning poker is a great way to go about your estimations as it promotes collaboration and joint responsibility for the work we can do as an agile team.
+
+
+MEASUREING PROGRESS IN KANBAN
+
+
+So, now you're looking to work in an agile way, but how do you actually monitor the progress you're making in an agile environment? Well, there are two really common ways to monitor progress and in this video we're going to discuss both. 
+
+The first one I'd like to mention quite briefly is the burn down chart. This is simply a chart that plots the estimation of effort to get work done against the number of days in a sprint to help us visualise our progress. On the horizontal axis you have time, or the number of days in the sprint, and on the vertical axis you have the number of effort points you have pulled into the sprint. In a perfect world there would be a straight line down from the total estimation to the last moment of the sprint. Of course this isn't how things actually work. 
+
+Sometimes requirements take a couple of days to complete and other times work gets done in a flurry. This means that the burn down chart line you created will have horizontal and vertical lines; horizontal while work is ongoing and vertical when it's completed, creating a graph that looks more like this. 
+
+A second way that we can monitor and visualise our progress is by using a Kanban board. So Kanban comes from the Toyota Production System, TPS, and translates to signal card. It's a just-in-time flow-based system to help deal with the buildup of inventory, but ultimately it works well in an agile environment too. So Kanban boards are quite simple actually. You can think of them as a system of flow. So imagine we've got a few headings, something like to do, in progress, in test and done. Now all we have to do is create our requirements and pull them across the Kanban board as we go.   
+
+While this is a really easy way to monitor progress, using Kanban properly also means that we need to embrace the four principles and five practices of Kanban. Let's go through each of these quickly. The first principle is start with what you do now. Don't try to change anything at first. Start with where you are and map your tasks into the Kanban board. 
+
+Next up, agree to pursue incremental, evolutionary change. Make small changes over time and monitor them. Don't look to make sweeping changes as soon as you start using Kanban. Our third principle is respect the current process, roles, responsibilities and titles. Current business process, roles, responsibilities and titles exist for a reason. Respect them and use them going into Kanban. Look to make incremental changes to these over time instead of sweeping up front changes. 
+
+The final principle is encourage acts of leadership at all levels. Simply put, everyone in the team can show leadership through their day-to-day work. Everyone should look to take the lead when they're best placed to do it and feel empowered to do so. Doing this is really a part of continued improvement mindset and helps individuals and teams get the most out of Kanban.  
+
+Great, now that we've covered the Kanban principles, let's take a look at the Kanban practices. The first is that you have to visualise the workflow. You can do this in a Kanban board and by using the requirements to populate it. These could be accounts payable, recruitment, expenses, anything really. 
+
+The next is limit work in progress. They key thing here then is that you should only be working on whatever you can achieve at any one point. Don't look to have lots of work in progress, instead have less work in progress and get that done as quickly as possible. This allows us to limit context switching or task switching, helping us to keep focused and limiting any wasted effort. 
+
+Kanban is a flow-based system, so as a team you need to manage the flow of requirements through it to make sure that no value stream is being blocked. To do this constantly measure and manage the flow through the system, make incremental changes to see if you can get more value and iterate. Make process policies explicit. It's very important that everyone understands exactly how things are going to be done, why they're done that way and to keep this at the forefront of everyone's minds. These could be in the form of working agreements, which must be visible to everyone. Lastly, improve collaboratively. It doesn't help to improve only yourself. As a team you need to be looking to improve. 
+
+So those are two really fantastic ways you can measure progress in agile environments. Burn down charts are a quick graphical representation of the progress that has or hasn't been made. Kanban boards are a visual representation of all the work that is being done and represents a workflow.
+
+ ---
+
+
+ WHAT IS A PROJECT 
+
+ Projects are a universal way of doing work, and you'll find them in every industry. But what is a project? Well, a project is a temporary endeavor, if you'd like, set to deliver a unique change. The key point here is that it has a clear start and end point. At the beginning of the project, we all need to understand what is most important. 
+
+There are four key factors within any project to keep in mind when you're trying to understand what is most important to that project. First, the time. How long can we spend on this project? Next, how much money can we spend on delivering the project? After this, we have quality, and of course, the quality can vary. Finally, scope, and by scope, I mean specifically what the deliverables of the project will do or in other words, how many features it will have. 
+
+Now, in Agile ways of working, we tend to believe that a large percentage of features that we deliver won't actually be used. So often, the safest variables to focus on is the scope. Now, there's a fantastic way to figure out just exactly how the scope might change, and it's a process called MOSCOW Prioritisation. To help explain this in a little bit more detail, we've brought in one of our resident experts who has a lot of experience using MOSCOW to help Agile teams deliver projects successfully.
+
+ 
+
+MOSCOW is a tool that is used to prioritise a list of requirements or a list of tasks in order of value to the customer or the end user. So M within the MOSCOW acronym stands for must haves which are features or tasks that are critical, ie, without those tasks or features, that product or that service would not be viable. S stands for should have, which stands for a feature that is, if it were possible, it would be nice to have it included and will add some value to the business. C stands for could have, which is a feature or an aspect or a task that is not critical, but should there be enough time and budget, it would be good to have included so that they are nice to have. And then W stands for won't have. 
+
+It's typically a requirement that was requested that is not deemed a high business value and neither is it deemed critically urgent, so it could easily be dropped off as in not done as part of the list of things to do. An example of where you could apply, a good of that example might be the sort of prioritisation an event planner would undertake to plan a conference or plan an event. 
+
+The event planner might list several tasks such as venue, procuring a venue for the event, might want that venue to be within half a mile radius of an underground station. Might also want to have doggy bags to give out branded materials to delegates who attend the event, might want to put on refreshments and part of those refreshments could include sandwiches, buffet, or alcohol, and so if you assume that the list that I have spoken about is ranked in the order that the event planner has in mind, then the venue would be a must have, for sure. 
+
+You can't have an event without a venue, and ideally, most events I've been to are in close proximity to an underground station so those two criteria would be must haves, perhaps goody bags to be the should haves, because definitely they would be a very nice to have accompaniment to any event, and alcohol would be a won't have. Food would definitely have a higher priority, maybe sandwiches, at least, would be a higher priority than alcohol. So that would kind of be an example of how a MOSCOW prioritisation approach might be applied by an event planner.
+
+ 
+
+So, projects are a universal idea used to deliver work. They tend to have four variable qualities, time, money, quality, and scope. In Agile projects, we use MOSCOW to ensure on time delivery. When a project becomes delayed or over budget, we reduce the scope instead of adding time or cost, and that allow us to guarantee on time delivery.
+
+
+When working in complex environments we may need an agile framework that deals with the full project lifecycle and agile PM DSDM is great for this. In this video we're going to take an introductory look at the framework elements which include the philosophy, principles, pillars and foundations.
+
+While you learn about agile PM DSDM, it's important to keep in mind the core philosophy of the framework that any project must be aligned to clearly defined strategic goals and focus upon early delivery of real benefits to the business. 
+
+Great, so DSDM has eight principles that underpin the philosophy and create the mindset you'll need when working with the framework. Let's take a look at all of them quickly. 
+
+First up, focus on the business need. The project should always satisfy a business need first and foremost and this will keep it aligned with the business strategy and deliver true business value. 
+
+Next, deliver on time. Delivering a solution on time is a very desirable outcome and sometimes underpins the entire rationale for delivering the project. DSDM identifies that the safest place to trade on this type of project is to lower priority features so we prioritise features and time box our work. This way, if we have a delay, we can trade features to keep on time. 
+
+The third principle is collaborate. Working together with your team and stakeholders as much as possible will help you to work through the project in the most efficient way. 
+
+Fourth, never compromise quality. The quality of any service or product that you deliver must always be a top priority. Agile PM DSDM always delivers a fit-for-purpose solution as a reduction in scope should never be a reduction in quality. 
+
+Our fifth principle is build incrementally from firm foundations. Incremental delivery is a key way in which most agile frameworks deliver solutions and agile PM DSDM is no different. We try and deliver something usable into the business so we can get early business benefits. 
+
+Sixth, develop iteratively. Iterate development is about feedback loops. This means we have a conversation with stakeholders about the work we're going to do, then take action. Once we finish the work, we'll review it together to make informed decisions about what to do next. 
+
+The seventh principle is communicate continuously and clearly. Communication should never suffer in an agile environment and communication is also a big part of collaborating. 
+
+Last up, demonstrate control. The people working in the project need to demonstrate control, both to their colleagues and their clients. This builds faith in the project and keeps momentum. 
+
+Fantastic stuff. The next thing you need to know about are the four pillars of DSDM. The four pillars are there to uphold the principles. They are process, people, products and practices.
+
+The process gives us a full end-to-end project lifecycle. The people element identifies the roles and responsibilities of the project management team. The products area brings into focus the management control of project information and last up, practices help us to understand techniques we can use while working on an agile project. Always remember that DSDM is built on a foundation of common sense and pragmatism, which means don't get bogged down with the theory, practically apply the framework. 
+
+And that's it for this video. By using the DSDM philosophy, principles, pillars and foundations, organisations can manage projects in an agile way and tackle complex issues with a systematic and pragmatic approach.
+
+Whenever we start something new, or want to do things in a new way, it can be pretty daunting. We have to learn new rules, change our mindset, adopt new principles, and take on different roles. Of course, this applies to agile, too. If you're feeling this way, there's a cool technique you can use to visualise for yourself and your team where you are, and where you're going. It's called Shu Ha Ri, and the idea comes from Japanese martial arts.
+
+During the first stage, Shu, we need to really immerse ourselves in the discipline. Imagine we want to become musicians. To start with, we need to take lessons from a master, practice, and do exactly what they say if we want to improve. We mustn't change anything to suit ourselves during this stage because we're still learning the ropes and basically, we're not qualified to know what's best yet. 
+
+After a bit of time, we'll be really familiar with our new way of working. At this point, we can start to question some of the things we've been doing, to make sure they're actually working for us. If we continue with the musician analogy, at this point, we would be able to start experimenting with the way we play. We'll still probably stick to the music, but maybe we'll start to play a little more arrowy and bring our own flair. We won't change anything too much, but we'll start to make a few small innovations and test how well they work for us.
+
+Finally, we reach Ri, and we've become masters of our new way of working. Now, we can fully depart from the laws and rules we followed so closely in Shu, and create our own rules. As musicians, we are now fully in control of our music, and can write songs and perform as experts. We are masters of this new way of working, so we know what works for us, and what doesn't.
+
+Now, this may not seem too complex, and it's not, but it's a great way of thinking about how your agile journey will probably progress. Expect a few hiccups along the way, especially during Shu, when you look to change the way you work. Agile might seem difficult, but as you keep at it, moving through Ha, and eventually Ri, you'll be in a new perspective, and become that much better at what you do.
+
+
