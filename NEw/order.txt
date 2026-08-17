@@ -1,0 +1,14 @@
+the sequence, least-critical to crown-jewels, with the one-line reason for each:
+
+Management / threat-intel (Ansible, MISP) — independent, nothing depends on them at runtime; proves today's patch process works on a throwaway box before you risk anything real.
+Network sensors (Zeek workers one at a time, then master) — each reboot is only a brief monitoring gap, and serial workers means you never lose all traffic analysis at once.
+Heavy forwarders (one at a time) — do these while indexers are healthy so paused ingestion resumes to a stable back-end; serial so both ingest paths aren't down together.
+Standalone search heads — search being down means you can't look, but indexing continues, so no data loss.
+Deployer — not in the live search path; only rule is don't reboot it mid-bundle-push.
+SHC members (one at a time, gated) — they replicate knowledge objects and elect a captain; one down is fine, two risks the cluster.
+Cluster manager (alone) — holds no data; patch the brain on its own and confirm the cluster's green before you start rotating peers.
+Indexer peers (strictly one at a time: maintenance mode → splunk offline → reboot → health-gate → next) — the only tier holding replicated data; parallel or ungated reboots can drop you below search/replication factor and lose searchable data.
+
+The through-line: patch the boxes whose failure is isolated and recoverable first; patch the coordinated, stateful cluster last and most carefully — so if anything's going to go wrong, it surfaces on a Zeek worker, not on Indexer_1, and everything around the indexers is already stable before you touch them.
+
+Two constants that override the list: never two of the same clustered tier down at once (two peers, two SHC members), and maintenance mode on before the peer loop, off after.
