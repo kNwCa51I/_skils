@@ -1,7 +1,5 @@
 # Sysinternals Cheat Sheet for Troubleshooting
 
-Oct 3, 2026 · @Human
-
 ## How to use this sheet
 
 Each tool below has at least two real situations, the command to run, and a plain-English note on what you are looking at. I wrote these from memory and have not run them on your machine, so run `toolname /?` to confirm the switches on your version, and test on a non-critical PC first.
